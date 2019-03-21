@@ -4,7 +4,7 @@ feature_text: |
   ## Hongyi Huang
   hhy.hongyi@outlook.com | +86-13070119837
 
-  Tsinghua Science Park, Haidian District, Beijing
+  Tsinghua University, Haidian District, Beijing
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
