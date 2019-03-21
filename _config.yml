@@ -123,7 +123,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   facebook: https://www.facebook.com/hongyi.huang.9406
   # Google+: https://scholar.google.com/citations?hl=en&user=OnxGOCYAAAAJ
   GitHub: https://github.com/fjzzhongyi
-  Email: hhy.hongyi@outlook.com
+  Email: mailto:hhy.hongyi@outlook.com
   #link: https://hongyi-huang.github.io/
   #RSS: /feed.xml
 
