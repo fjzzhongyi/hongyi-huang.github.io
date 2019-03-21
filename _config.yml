@@ -109,6 +109,7 @@ navigation_header:
   Introduction: /introduction/
   #Blog: /blog/
   #Categories: /categories/
+  Projects: /projects/
   Publications: /publications/
   Contact: /contactme/
   #Fork Alembic: https://github.com/daviddarnes/alembic
