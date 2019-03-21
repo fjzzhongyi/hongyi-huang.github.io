@@ -109,7 +109,7 @@ navigation_header:
   Introduction: /elements/
   #Blog: /blog/
   #Categories: /categories/
-  Publications: /search/
+  Publications: /publications/
   #Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
