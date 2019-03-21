@@ -8,7 +8,7 @@ aside: false
 
 #### Basic Info
 
-----
+
 
 * Currently 2rd year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 * Interning in *2012 Lab, Huawei*
