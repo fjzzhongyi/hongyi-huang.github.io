@@ -5,6 +5,8 @@ aside: false
 
 ---
 
+<br/>
+
 #### Algorithm Design Intern
 
 **2012 Lab, Huawei** ***(2018 - Present)***
@@ -12,8 +14,6 @@ aside: false
 - Design DNN-based algorithm to detect anomalies regarding KPI data 
 - Join project that improves Variational Auto Encoder(VAE) for anomaly detection in time series (submitted to IJCAI’19)
 - Designing solutions targeting fast construction and auto-generation of fault trees, which facilitates auto-healing in IT operations
-
-----
 
 
 
@@ -27,8 +27,6 @@ aside: false
 - Exploring solution for verification of Network Function with Petri-Net
 - Data measurement using real-world Huawei APP market dataset
 
-----
-
 
 
 #### Graduate Teaching Assistant
@@ -38,8 +36,6 @@ aside: false
 - Security Technologies in Cyberspace, graduate course
 - Fundamentals of Cryptography, undergraduate course
 
-----
-
 
 
 #### Undergraduate Project
@@ -48,8 +44,6 @@ aside: false
 
 - Investigate on the design and implementation of algorithm library and system for anomalous subgraph detection (Beihang, bachelor thesis; advised by Jianxin Li)
 - Improve video quality of broadcaster in user-generated live streaming (Tsinghua,  accepted by *IWQoS’18*; supervised by Yong Cui and Wenfei Wu)
-
-----
 
 
 
