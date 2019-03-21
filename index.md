@@ -12,5 +12,5 @@ excerpt: ""
 
 <br/>
 
-{% include button.html text="Github" icon="github" link="https://github.com/fjzzhongyi" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/HowieHhy" color="#0d94e7" %} {% include button.html text="Facebook"  icon="facebook" link="https://www.facebook.com/hongyi.huang.9406" %} {% include button.html text="Email me" icon="Email" link="mailto:hhy.hongyi@outlook.com" color="#FF4500" %}
+{% include button.html text="Github" icon="github" link="https://github.com/fjzzhongyi" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/HowieHhy" color="#0d94e7" %} {% include button.html text="Facebook"  icon="facebook" link="https://www.facebook.com/hongyi.huang.9406" %} {% include button.html text="Email" icon="email" link="mailto:hhy.hongyi@outlook.com" color="#FF4500" %}
 
