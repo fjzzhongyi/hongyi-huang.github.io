@@ -82,7 +82,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Hongyi Huang" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "2rd Ph.D. student from IIIS, Tsinghua University" # Site description and default description, also used in jekyll-seo-tag
+description: "Homepage" # Site description and default description, also used in jekyll-seo-tag
 url: "https://hongyi-huang.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/fjzzhongyi"
@@ -106,7 +106,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
   Home: /
-  Introduction: /elements/
+  Introduction: /introduction/
   #Blog: /blog/
   #Categories: /categories/
   Publications: /publications/
