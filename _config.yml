@@ -110,13 +110,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
   Home: /
   Publications: /elements/
-  Blog: /blog/
+  #Blog: /blog/
   #Categories: /categories/
-  #Search: /search/
+  Search: /search/
   #Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Forked by Hongyi: https://darn.es
+  Forked by Hongyi: https://hongyi-huang.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/HowieHhy
