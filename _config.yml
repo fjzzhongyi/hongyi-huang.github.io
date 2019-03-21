@@ -60,14 +60,14 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Asia/Beijing # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Show what I thought and embrassed" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -83,13 +83,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Hongyi Huang" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "2rd Ph.D. student from IIIS, Tsinghua University" # Site description and default description, also used in jekyll-seo-tag
+url: "https://hongyi-huang.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/fjzzhongyi"
+email: "hhy.hongyi@outlook.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
@@ -109,22 +109,22 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
+  Publications: /elements/
   Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  #Categories: /categories/
+  #Search: /search/
+  #Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Forked by Hongyi: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  Twitter: https://twitter.com/HowieHhy
+  LinkedIn: https://www.linkedin.com/in/hongyi-huang-ab6b52151/
+  #Google+: https://plus.google.com/+DavidDarnes
+  GitHub: https://github.com/fjzzhongyi
+  #link: https://hongyi-huang.github.io/
+  #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
