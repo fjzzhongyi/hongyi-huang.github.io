@@ -39,6 +39,8 @@ aside: false
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
 
+<iframe src="https://www.google.com/maps/d/embed?mid=11g5W8VpcTyrr0jKbmchpi4It66PRX0Pu" width="640" height="480"></iframe>
+
 ### Button include
 
 {% include button.html text="A button" link="https://david.darn.es" %}
