@@ -1,8 +1,5 @@
 ---
 title: Introduction
-feature_text: |
-  A brief introduction and CV provided.
-feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "introduction"
 aside: false
 ---
@@ -39,7 +36,7 @@ aside: false
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
 
-<iframe src="https://www.google.com/maps/d/embed?mid=11g5W8VpcTyrr0jKbmchpi4It66PRX0Pu" width="640" height="480"></iframe>
+
 
 ### Button include
 
