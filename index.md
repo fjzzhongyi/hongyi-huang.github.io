@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Hongyi Huang
-  *hhy.hongyi@outlook.com* | *hhy17@mails.tsinghua.edu.cn*
+  *hhy.hongyi@outlook.com* | *hhy17@mails.tsinghua.edu.cn* |
   Tsinghua University, Beijing, P.R. China
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
