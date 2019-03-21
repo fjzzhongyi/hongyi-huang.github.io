@@ -6,7 +6,7 @@ aside: false
 
 <br/>
 
-#### Basic Info
+#### Profile
 
 
 
