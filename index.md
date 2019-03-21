@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Hongyi Huang
-  hhy.hongyi@outlook.com | +86-13070119837
+  *hhy.hongyi@outlook.com* | +86-13070119837
 
   Tsinghua University, Beijing, P.R. China
 feature_image: "https://picsum.photos/1300/400?image=989"
