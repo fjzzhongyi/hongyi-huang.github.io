@@ -9,5 +9,5 @@ aside: true
 
 ## Location
 
-<iframe src="https://www.google.com/maps/d/embed?mid=11g5W8VpcTyrr0jKbmchpi4It66PRX0Pu" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1OuVr8nUmHvVbm0IlRE_qFAfiyT2y02aQ" width="640" height="480"></iframe>
 
