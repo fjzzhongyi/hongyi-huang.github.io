@@ -8,9 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-<p style="text-align: center;">
   I am now 2rd year Ph.D student majored in **Computer Sciences** from ***Intitute for Interdisciplinary Information Sciences(IIIS) , Tsinghua Univeristy***.
-</p>
 
 <br/>
 
