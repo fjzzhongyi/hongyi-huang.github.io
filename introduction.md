@@ -16,7 +16,7 @@ aside: false
 
 * Following newly interconnections between ***AI technologies and networking***
 
-  >  More information from [my CV]({{https://hongyi-huang.github.io}}/files/resume3_Hongyi_Huang.pdf)
+  >  More information from [my CV]({{https://hongyi-huang.github.io}}/files/test.pdf) This Link is invalid temporarily.
 
 <br/>
 
