@@ -9,7 +9,7 @@ aside: false
 #### Profile
 <br/>
 
-* Currently 2rd year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
+* Currently 3rd year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 * Interning in *2012 Lab, Huawei*
 
 * Research interest in ***networking function virtualization***(modeling, orchestration, verification), ***network management*** and ***emerging P4*** towards network improvement
