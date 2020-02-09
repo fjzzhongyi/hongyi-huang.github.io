@@ -2,7 +2,7 @@
 title: Publications
 excerpt: "Show all personal publications"
 ---
-1. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, *Hongyi Huang* and Xunxun Chen, "Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release," in IEEE Transactions on Dependable and Secure Computing (TDSC).
+1. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, *Hongyi Huang* and Xunxun Chen, "Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release," in IEEE Transactions on Dependable and Secure Computing (**TDSC**).
 
    <br/>
 
